@@ -1,0 +1,33 @@
+*{
+    margin: 0;
+    padding: 0;
+  }
+  
+  body{
+    box-sizing: border-box;
+    text-align: center;
+    width: 80%;
+    height: 100vh;
+    border: 1px solid red;
+    margin: 0 auto;
+  }
+
+  a{
+      text-decoration: none;
+  }
+
+  form{
+      height: auto;
+  }
+
+  form div{
+    padding: 5px;
+    margin-top: 1rem;
+  }
+
+  @media (min-width: 320px){
+    h1{
+      font-size: 1.5rem;
+    }
+}
+  
