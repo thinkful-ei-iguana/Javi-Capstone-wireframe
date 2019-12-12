@@ -1,6 +1,8 @@
 # Javi-Capstone-wireframe
 skeleton of what app may look like
 
+media queries have not been set to handle different port sizes.
+
 1.clicking on sign up directs you to the sign up form.
 1.a. clicking on log in directs you to login form.
 2. clicking on cancel redirects you back to the landing page.
