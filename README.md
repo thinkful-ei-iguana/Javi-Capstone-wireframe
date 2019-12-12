@@ -2,6 +2,7 @@
 skeleton of what app may look like
 
 1.clicking on sign up directs you to the sign up form.
+1.a. clicking on log in directs you to login form.
 2. clicking on cancel redirects you back to the landing page.
 3.clicking on submit directs you to the main workout page.
 4.clicking on add workout pulls up the initial workout page.
